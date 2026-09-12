@@ -1,0 +1,101 @@
+{
+  "_readme": "SINGLE SOURCE OF TRUTH for everything that changes. Edit here, run _qa/build.ps1, and every page + the JSON-LD updates together. Anything with verified:false is NOT published as fact.",
+
+  "name": { "en": "Rabbit Grill Khao Yai", "th": "Rabbit Grill เขาใหญ่" },
+  "descriptor": { "en": "Fire-grill house", "th": "โรงย่างเนื้อ" },
+  "tagline_source_en": "Rabbit Grill is a fire-grill restaurant that carefully selects quality ingredients and brings them to life through our style of fire cooking.",
+  "tagline_source_th": "โรงย่างเนื้อแห่งเขาใหญ่ ที่ยึดความคลาสสิกของการย่างแบบดั้งเดิม คัดเฉพาะเนื้อคุณภาพดี ถูกย่างด้วยไฟอย่างพิถีพิถัน",
+
+  "contact": {
+    "phone": "099 245 5444",
+    "phone_intl": "+66992455444",
+    "email": "rabbitgrill2026@gmail.com",
+    "verified": true,
+    "_source": "Facebook page About panel, captured 2026-08-29"
+  },
+
+  "address": {
+    "street_th": "339 หมู่ 11 ตำบลหนองน้ำแดง",
+    "street_en": "339 Moo 11, Nong Nam Daeng",
+    "district_th": "อำเภอปากช่อง",
+    "district_en": "Pak Chong",
+    "province_th": "จังหวัดนครราชสีมา",
+    "province_en": "Nakhon Ratchasima",
+    "postcode": "30130",
+    "country": "TH",
+    "landmark_en": "On the same grounds as Rosebay Homecooking Cafe",
+    "landmark_th": "อยู่ในพื้นที่เดียวกับ Rosebay Homecooking Cafe",
+    "landmark_verified": true,
+    "maps_query": "Rabbit Grill Khao Yai 339 Moo 11 Nong Nam Daeng Pak Chong Nakhon Ratchasima",
+    "coords_verified": false,
+    "_note": "Postcode 30130 is the standard Nong Nam Daeng / Pak Chong code but was not read off their own listing. No lat/long is published because none is confirmed; the map link uses a text query so it can never point at the wrong pin."
+  },
+
+  "hours": {
+    "closed_day_verified": true,
+    "closed_day": "Wednesday",
+    "closed_day_source": "The restaurant's own Facebook notice: a RABBIT GRILL card reading 'CLOSED EVERY WEDNESDAY' (fbid 122120344280734122). Saved at img/raw/fb-closed-wed.jpg.",
+    "open_time_verified": false,
+    "close_time": "21:00",
+    "close_time_source": "Wongnai listing.",
+    "display_en": "Open every day except Wednesday, until 21:00",
+    "display_th": "เปิดทุกวัน ยกเว้นวันพุธ ถึง 21:00 น.",
+    "caveat_en": "The opening time is not published anywhere. Please ring if you are coming early.",
+    "caveat_th": "เวลาเปิดร้านยังไม่มีประกาศอย่างเป็นทางการ หากจะมาช่วงเช้า กรุณาโทรสอบถามก่อน",
+    "_todo": "Only the OPENING time is still unconfirmed. Once known, set open_time_verified:true and complete the openingHours in the JSON-LD (currently emitted as Mo,Tu,Th,Fr,Sa,Su with a close of 21:00 and no opens value)."
+  },
+
+  "price_range": {
+    "value": "251-500 THB",
+    "schema": "$$",
+    "verified": true,
+    "_source": "Wongnai listing price band, per head"
+  },
+
+  "reservations": {
+    "supported": false,
+    "verified": false,
+    "_note": "No booking system, booking link or reservation statement exists on any of their channels. The site therefore offers CALL / MESSAGE only and does NOT render a fake booking form.",
+    "channels": ["phone", "facebook", "instagram"]
+  },
+
+  "pets": {
+    "verified": false,
+    "_note": "The brief described an air-conditioned pet-friendly area sourced from customer reports. Nothing on the restaurant Instagram, Facebook About, Facebook posts, Wongnai listing or any search result confirms a pet policy. NO POLICY IS PUBLISHED. The site renders an honest ask-first module instead.",
+    "policy_en": null,
+    "policy_th": null,
+    "_when_confirmed": "Set verified:true, then fill: species, size limits, indoor/outdoor zones, air-conditioned area yes/no, leash rule, booking requirement."
+  },
+
+  "chef": {
+    "claim_th": "โดยเชฟผู้เชี่ยวชาญด้านเนื้อ เชฟบัส Top Chef Thailand",
+    "claim_en": "By a beef specialist, Chef Bas, of Top Chef Thailand",
+    "attributed": true,
+    "_source": "Their own Facebook post, 23 April 2026. Rendered on the site as a quoted restaurant claim, never as independently verified biography."
+  },
+
+  "social": {
+    "instagram": { "url": "https://www.instagram.com/rabbitgrill.khaoyai/", "handle": "@rabbitgrill.khaoyai" },
+    "facebook": { "url": "https://www.facebook.com/p/Rabbit-Grill-Khao-Yai-61572023661554/", "handle": "Rabbit Grill Khao Yai" },
+    "linktree": { "url": "https://linktr.ee/rabbitgrill", "handle": "linktr.ee/rabbitgrill" }
+  },
+
+  "announcement": {
+    "active": false,
+    "en": "",
+    "th": "",
+    "_note": "Set active:true with text to raise the notice bar. It renders nothing when empty."
+  },
+
+  "voice": {
+    "_note": "Verbatim lines from their own posts. Safe to use as copy because they wrote them.",
+    "lines": [
+      "Different perspectives. One Rabbit Grill.",
+      "Every great dish begins with raw care.",
+      "Every detail begins with a pair of hands, and every plate carries the story of the craft behind it.",
+      "A New Chapter of Fire and Flavor",
+      "ตัดทำได้หมด",
+      "ทุกเพศทุกวัย"
+    ]
+  }
+}

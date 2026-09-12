@@ -1,0 +1,127 @@
+﻿role	THAI (current)	ENGLISH (reference)
+a.skip	ข้ามไปยังเนื้อหา	Skip to content
+i	โรงย่างเนื้อ · เขาใหญ่	โรงย่างเนื้อ · Khao Yai
+a	เมนู	Menu
+a	เตาไฟ	The Fire
+a	มาหาเรา	Visit
+a.btn.nav__cta	เส้นทาง	Directions
+dt	จากเคาน์เตอร์	From the counter
+dt	วิธีปรุง	Method
+dd	ถ่านและไฟ	Charcoal and fire
+dt	ปิด	Closed
+dd	ทุกวันพุธ	Every Wednesday
+span	โรงย่างเนื้อ — ปากช่อง เขาใหญ่	Rabbit Grill — Pak Chong, Khao Yai
+h1.dsp.dsp--xl.lines	<span><span>ให้<span class='fire'>ไฟ</span></span></span><span><span>เป็นคนปรุง</span></span>	Fire does the cooking .
+p.lede.hero__lede	โรงย่างเนื้อกลางเขาใหญ่ ครัวเปิดโล่ง นั่งชิดได้เลย กลิ่นถ่าน เสียงคุยเต็มร้าน ส่วนไพร์มริบ โต๊ะคุณอยากกินเท่าไหร่ เราหั่นให้เท่านั้น	A grill house in Khao Yai with an open kitchen you can sit right next to. Charcoal smoke, a loud room, and a prime rib carved to whatever weight your table actually feels like eating.
+a.btn.btn--ember.btn--lg	ดูเมนู	View the menu
+span	เส้นทางไปร้าน	Get directions
+p.way__d	39 จาน ราคาครบ รูปครบ	39 dishes, every price, every photograph
+p.way__d	ถ่าน ครัวเปิด คนที่ยืนอยู่หน้าเตา	Charcoal, the open kitchen, and who is working it
+p.way__d	เราอยู่ตรงไหน เปิดกี่โมง ติดต่อยังไง	Where we are, when we are open, how to reach us
+span	แนวคิด	The idea
+h2.dsp.dsp--l.lines	<span><span>เรื่องดี ๆ</span></span><span><span>มักเริ่มต้น</span></span><span><span>รอบกองไฟ</span></span>	Good things happen around fire.
+p.shead__lede.lede.lede--wide	Rabbit Grill เป็นร้านอาหารย่างกลางเขาใหญ่ จานใหญ่ แบ่งกันกิน มื้อที่ไม่ต้องรีบ ที่นี่ไม่ใช่ห้องอาหารเงียบ ๆ แต่เป็นครัวที่ได้ยินเสียง ได้กลิ่น และนั่งอยู่ข้าง ๆ ได้	Rabbit Grill is a place for grilled food, generous plates and unhurried meals in Khao Yai. Not a hushed dining room — a kitchen you can hear, smell and sit beside.
+cite	คำของร้านเอง — อินสตาแกรม	Rabbit Grill, in their own words — Instagram
+figcaption	ครัวเปิด ตอนร้านกำลังแน่น	The open kitchen, mid-service
+span	ห้องอาหาร	The room
+h2.dsp.dsp--m	ขยับเข้ามาใกล้ไฟ	Pull up close to the fire.
+p.shead__lede.lede	ครัวอยู่ตรงหน้า โคมทองแดงให้ความร้อน โต๊ะเต็มทั้งร้าน คนย่างยืนห่างจากโต๊ะคุณไม่กี่ก้าว	The pass is right there — copper heat lamps, a full room, and whoever is working the grill standing a few steps from your table.
+figcaption	ครัวเปิด กับโต๊ะที่นั่งชิดที่สุด	The open kitchen, and the seats closest to it
+figcaption	ที่หน้าเตา	At the pass
+figcaption	คืนที่ร้านแน่น	A full night
+span	เคาน์เตอร์	The counter
+h2.dsp.dsp--l	หั่นตามสั่ง<span class='hand'>ตัดทำได้หมด</span>	Cut to order. ตัดทำได้หมด
+p.shead__lede.lede	ไพร์มริบที่นี่ไม่ขายเป็นจาน แต่ขายเป็นน้ำหนัก 100 กรัม 490 บาท ลากมีดไปบนชิ้นเนื้อ แล้วดูว่าโต๊ะคุณสั่งไปเท่าไหร่	Prime rib here is not sold by the plate. It is sold by the 100 grams — 490 ฿ a cut. Drag across the rib and watch what your table is actually ordering.
+p.board__hint	ลากเพื่อหั่น	Drag to carve
+dt	จำนวนชิ้น	Cuts
+dt	น้ำหนัก	Weight
+dt	ราคา	Price
+a.btn.btn--ghost	ดูเมนูเนื้อทั้งหมด	See the whole beef list
+p.carve__note	ราคา 490 บาท / 100 กรัม มาจากเมนูจริงของร้าน ภาพคือไพร์มริบของร้านเอง	490 ฿ per 100 g is the price on their current menu. The rib in the photograph is theirs.
+span	จากเตา	From the grill
+h2.dsp.dsp--l.lines	<span><span>ปล่อยให้ไฟ</span></span><span><span>เล่าเอง</span></span>	Fire does the talking.
+p.shead__lede.lede	หมู ผัก ทะเล เนื้อ — ทุกอย่างผ่านถ่านและไฟ	Pork. Vegetables. Seafood. Beef. Everything goes over the charcoal.
+p.dish__no	หมู · จากเตา	Pork · from the grill
+p.dish__no	ทะเล · จากเตา	Seafood · from the grill
+p.dish__no	เรียกน้ำย่อย · เนื้อ	To start · beef
+p.dish__no	เรียกน้ำย่อย · ผัก	To start · vegetable
+span	ดูเมนูทั้งหมด	The whole menu
+span	ในครัว	The house
+h2.dsp.dsp--l.lines	<span><span>เนื้อ</span></span><span><span>ไฟ</span></span><span><span>เวลา</span></span>	Meat. Heat. Time.
+p.shead__lede.lede	ร้านแนะนำตัวเองว่าเป็น “โรงย่างเนื้อที่คัดเฉพาะเนื้อคุณภาพดี ย่างด้วยไฟอย่างพิถีพิถัน” และบอกว่าคนคุมเตาคือเชฟผู้เชี่ยวชาญด้านเนื้อ	The restaurant describes itself as a grill house that selects only good meat and cooks it carefully over fire — run, in their words, by a chef who specialises in beef.
+cite.tag	ประกาศของร้านเอง เฟซบุ๊ก 23 เมษายน	Rabbit Grill's own announcement, Facebook, 23 April
+span	เรื่องของเตาไฟ	More about the fire
+span	หนองน้ำแดง	Nong Nam Daeng
+h2.dsp.dsp--xl.lines	<span><span>ออกจากกรุงเทพฯ</span></span><span><span>มุ่งหน้าเขาใหญ่</span></span>	Out of Bangkok. Into Khao Yai.
+span	พาฉันไปที่นั่น	Take me there
+p.tag	โทร 099 245 5444 · 11:00–21:00 น. · ปิดทุกวันพุธ	Call 099 245 5444 · 11:00–21:00 · Closed Wednesdays
+span	มากับสัตว์เลี้ยง	Coming with a pet
+h2.dsp.dsp--m.lines	<span><span>พาน้องหมา</span></span><span><span>มาด้วยไหม</span></span>	Driving up with a dog?
+p.shead__lede.lede	โทรมาก่อนออกเดินทาง เดี๋ยวเราบอกได้ว่าวันนั้นดูแลกันได้แค่ไหน	Ring us before you set out and we will tell you what we can do for you on the day.
+p	เรายังไม่ได้ประกาศกฎเรื่องสัตว์เลี้ยงแบบตายตัว ถามมาตรง ๆ ดีกว่าเดา โทรมาถามจะเร็วที่สุด	We have not published a fixed pet policy, so it is better to ask us than to guess. The phone is fastest.
+span	ทักมาทางอินสตาแกรม	Message on Instagram
+span	มีอะไรอยู่บนเตา	What is on the grill
+h2.dsp.dsp--m	อัปเดตล่าสุดจากเขาใหญ่	The latest from Khao Yai.
+h3	ที่อยู่	Address
+p.visit__flag	อยู่ในพื้นที่เดียวกับ Rosebay Homecooking Cafe	On the same grounds as Rosebay Homecooking Cafe
+h3	โทรศัพท์	Phone
+p.visit__flag	จองโต๊ะและสอบถามทางโทรศัพท์ หรือทักมาทางโซเชียล	For questions and tables, call or message us on social
+h3	เวลาเปิด	Hours
+p	11:00 – 21:00 น. · ปิดทุกวันพุธ	11:00 – 21:00 · Closed Wednesdays
+p.visit__flag	ปิดวันพุธ เป็นประกาศจากร้านเอง เวลามาจาก Google กับ Wongnai	Wednesday closing is the restaurant's own notice. The times come from their Google and Wongnai listings.
+h3	คะแนนรีวิว	Rated
+i	จาก 58 รีวิวบน Google	from 58 Google reviews
+span	ดูรีวิวบน Google	See the reviews on Google
+span	เปิดใน Google Maps	Open in Google Maps
+i	เขาใหญ่ · ประเทศไทย	Khao Yai · Thailand
+h4	ดูเพิ่มเติม	Explore
+h4	ติดตาม	Follow
+span	โรงย่างเนื้อ · หนองน้ำแดง · เขาใหญ่	โรงย่างเนื้อ · Nong Nam Daeng · Khao Yai
+span	โทร	Call
+h1.dsp.dsp--l.lines	<span><span>ทุกอย่าง</span></span><span><span>ที่ผ่านไฟ</span></span>	Everything the fire touches.
+p.lede.lede--wide	ราคาทั้งหมดเป็นเงินบาท ถอดมาจากเมนูจริงของร้าน จานที่มีจุด ● คือจานที่ร้านถ่ายรูปไว้เอง เมนูมีเปลี่ยนบ้าง เช็กที่หน้าร้านอีกทีได้เลย	All prices in Thai baht, taken from Rabbit Grill's own menu card. Dishes marked ● are the ones they have photographed. Menus change — please check at the restaurant.
+p.mcat__note	หัวใจของโรงย่างเนื้อ ไพร์มริบคิดราคาตามน้ำหนัก	The counter cuts. Prime rib is sold by weight.
+span.mrow__u	ต่อ 100 กรัม	per 100 g
+span.mrow__u	300 กรัม	300 g
+p.mcat__note	หมู ไก่ ปลา และทุกอย่างที่ผ่านไฟ	Pork, bird, fish — everything the fire touches.
+span.mbadge	ตามฤดูกาล	Seasonal
+p.mcat__note	เป็นเมนูพิเศษตามฤดูกาล กรุณาสอบถามหน้าร้านว่ายังมีอยู่หรือไม่	Served on a separate seasonal card. Ask whether it is still running.
+h2.dsp.dsp--m	บาร์ และเคาน์เตอร์มัทฉะ	The bar and the matcha counter.
+p.lede.lede--wide	เบียร์สด มัทฉะนำเข้าจากญี่ปุ่น น้ำผลไม้คั้นสด และโซดา	Draft beer, matcha brought in from Japan, cold-pressed juice and soda.
+p.mfoot	มัทฉะนำเข้าตรงจากญี่ปุ่น	We source our matcha straight from Japan.
+span.mpromo	โปรโมชั่น 3 แถม 1	Promotion — buy 3 get 1 free
+h2.dsp.dsp--s	พร้อมสั่งแล้วหรือยัง	Ready to order?
+p.lede	โทรมาถามเรื่องโต๊ะ หรือกดเส้นทางแล้วขับมาเลย	Call us about a table, or just point the car at us.
+p.lede.lede--wide	Rabbit Grill เรียกตัวเองว่า “โรงย่างเนื้อสไตล์ Fire Cooking” จากนี้คือสิ่งที่ร้านเล่าถึงตัวเอง เป็นคำของร้าน ไม่ใช่คำของเรา	Rabbit Grill calls itself a fire-cooking grill house. What follows is what they say about themselves, in their words rather than ours.
+p.tag.tag--accent	จากหน้าปกเมนูของร้าน	From the cover of their menu card
+span	คนที่คุมเตา	Who is on the grill
+h2.dsp.dsp--m	เชฟที่ทำงานกับเนื้อ	A chef who works in beef.
+p.lede	เมื่อเดือนเมษายน 2026 ร้านประกาศบนเฟซบุ๊กของตัวเองว่า:	In April 2026 the restaurant announced on its own Facebook page:
+cite.tag	Rabbit Grill Khao Yai · เฟซบุ๊ก · 23 เมษายน 2026	Rabbit Grill Khao Yai · Facebook · 23 April 2026
+p.visit__flag	นี่คือคำแนะนำตัวของร้านเอง เรายังไม่ได้ยืนยันรายละเอียดซีซันหรืออันดับในรายการจากแหล่งอื่น	That is the restaurant's own introduction. Season and placing on the programme are not independently confirmed here.
+span	สิ่งที่ออกมาจากเตา	What comes off it
+h2.dsp.dsp--l.lines	<span><span>เนื้อ ไก่ หมู</span></span><span><span>และของจากแม่น้ำ</span></span>	Beef, bird, pork, and the river.
+p	คิดราคาตามน้ำหนัก 490 บาท / 100 กรัม	Priced by weight — 490 ฿ / 100 g
+p	ซี่โครงหมูย่าง 590 บาท	ซี่โครงหมูย่าง — 590 ฿
+p	กุ้งแม่น้ำย่าง 990 บาท	กุ้งแม่น้ำย่าง — 990 ฿
+p	ลิ้นวัวย่าง 590 บาท	ลิ้นวัวย่าง — 590 ฿
+h2.dsp.dsp--m	ครัวเปิด ห้องที่มีชีวิต	An open kitchen, a loud room.
+p.lede	โต๊ะที่ดีที่สุดคือโต๊ะที่ได้ยินเสียงไฟ	The best seats are the ones where you can hear the fire.
+span	คำของร้านเอง	In their own words
+p.tag	เก็บจากโพสต์ของ @rabbitgrill.khaoyai	Collected from posts by @rabbitgrill.khaoyai
+p.visit__flag	อยู่ในพื้นที่เดียวกับ Rosebay Homecooking Cafe — ใช้เป็นจุดสังเกตได้ เราไม่ได้เป็นเจ้าของหรือในเครือเดียวกัน	On the same grounds as Rosebay Homecooking Cafe — useful as a landmark. No ownership or affiliation is implied.
+p.dsp.dsp--s	11:00 – 21:00 น.<br>ปิดทุกวันพุธ	11:00 – 21:00 Closed Wednesdays
+p.visit__flag	ปิดวันพุธ เป็นประกาศจากร้านเอง ส่วนเวลา 11:00–21:00 น. มาจาก Google กับ Wongnai ไม่ได้มาจากร้านโดยตรง ถ้าขับรถมาไกล โทรเช็กก่อนอีกทีดีกว่า	The Wednesday closure is the restaurant's own notice. The 11:00–21:00 hours come from their Google and Wongnai listings rather than from the restaurant directly — ring to confirm before a long drive.
+p.tag	จองโต๊ะ	Tables
+p	ยังไม่มีระบบจองออนไลน์ โทรมาได้เลย หรือทักมาทาง Facebook / Instagram	There is no online booking. Call, or message us on Facebook or Instagram.
+p.tag	ติดต่อ	Contact
+span	การเดินทาง	Getting here
+h2.dsp.dsp--m	สนุกตั้งแต่ทางมาแล้ว	Part of the pleasure is the drive.
+span	ก่อนมา	Before you come
+h2.dsp.dsp--m	โทรถามไว้ก่อนดีที่สุด	Worth a phone call.
+h3	วันพุธ	Wednesdays
+p	ปิดทุกวันพุธ อย่าขับรถมาเสียเที่ยว	We are closed every Wednesday. Do not make the drive for nothing.
+h3	โต๊ะใหญ่	Large groups
+p	มาหลายคนหรือมีเมนูที่อยากสั่งล่วงหน้า โทรบอกเราไว้ก่อนได้	Coming as a group, or want something put aside? Tell us ahead.
+h3	เมนูตามฤดูกาล	Seasonal dishes
+p	เมนูอะโวคาโดเป็นเมนูพิเศษตามฤดูกาล สอบถามว่ายังมีอยู่ไหม	The avocado card is seasonal. Ask whether it is still running.

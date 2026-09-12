@@ -1,0 +1,158 @@
+{
+  "_source": "Taken from the restaurant own menu PDFs (doc/menu-food.pdf, doc/menu-beverage.pdf, doc/menu-avocado.jpg), pulled from the Google Drive links in their Instagram linktree. Prices in THB. Captured 2026-08-29.",
+  "currency": "THB",
+  "categories": [
+    { "id": "beef", "en": "Beef Selection", "th": "เนื้อ", "kicker": "01",
+      "note_en": "The counter cuts. Prime rib is sold by weight.",
+      "note_th": "หัวใจของโรงย่างเนื้อ ไพร์มริบคิดราคาตามน้ำหนัก",
+      "items": [
+        { "en": "Prime Rib", "th": "ไพร์มริบ", "price": 490, "unit_en": "per 100 g", "unit_th": "ต่อ 100 กรัม", "img": "primerib-full", "star": true },
+        { "en": "Wagyu Tenderloin MB 6–7 with Red Wine Jus", "th": "เนื้อสันในวากิวย่างซอสไวน์แดง", "price": 1990, "unit_en": "300 g", "unit_th": "300 กรัม", "img": "wagyu-tenderloin", "star": true },
+        { "en": "Australian Striploin", "th": "เนื้อสันนอกออสเตรเลีย", "price": 590, "img": "striploin", "star": true },
+        { "en": "Grilled Tongue", "th": "ลิ้นวัวย่าง", "price": 590, "img": "grilled-tongue" },
+        { "en": "Beef Tongue Stew", "th": "สตูว์ลิ้นวัว", "price": 490, "img": "tongue-stew" },
+        { "en": "Grilled Lamb Rack", "th": "ซี่โครงแกะย่าง", "price": 890, "price2": 1590, "img": "lamb-rack" }
+      ]
+    },
+    { "id": "grill", "en": "From the Grill", "th": "จานหลักจากเตา", "kicker": "02",
+      "note_en": "Pork, bird, fish — everything the fire touches.",
+      "note_th": "หมู ไก่ ปลา และทุกอย่างที่ผ่านไฟ",
+      "items": [
+        { "en": "Grilled River Prawns", "th": "กุ้งแม่น้ำย่าง", "price": 990, "img": "river-prawns", "star": true },
+        { "en": "Grilled Baby Chicken", "th": "ไก่ย่างตัวเล็กคลุกเครื่องเทศ", "price": 590, "img": "baby-chicken" },
+        { "en": "Grilled Pork Ribs", "th": "ซี่โครงหมูย่าง", "price": 590, "img": "pork-ribs", "star": true },
+        { "en": "Grilled Fish", "th": "ปลาย่าง", "price": 490, "img": "grilled-fish" },
+        { "en": "Fish and Chips", "th": "ฟิชแอนด์ชิปส์", "price": 490, "img": "fish-chips" },
+        { "en": "Grilled Pork", "th": "หมูย่าง", "price": 390, "img": "grilled-pork" },
+        { "en": "Grilled Squid", "th": "ปลาหมึกย่าง", "price": 390, "img": "grilled-squid" }
+      ]
+    },
+    { "id": "appetizer", "en": "Appetizers", "th": "ของเรียกน้ำย่อย", "kicker": "03",
+      "items": [
+        { "en": "Beef Tartare Bone Marrow", "th": "บีฟทาร์ทาร์เสิร์ฟพร้อมโบนแมโรว์", "price": 490, "img": "bone-marrow", "star": true },
+        { "en": "Calamari Served with Tartar Sauce", "th": "ปลาหมึกชุบเกลือขนมปังทอดเสิร์ฟพร้อมซอสทาร์ทาร์", "price": 390, "img": "calamari" },
+        { "en": "Nashville Hot Chicken", "th": "ไก่ทอดซอสเผ็ดแนชวิลล์", "price": 240, "img": "nashville-chicken" },
+        { "en": "Fried Sweet Potato", "th": "มันหวานทอด", "price": 180, "img": "sweet-potato" },
+        { "en": "Corn Rib", "th": "คอร์นริบ", "price": 150, "img": "corn-rib", "star": true }
+      ]
+    },
+    { "id": "salad", "en": "Salads", "th": "สลัด", "kicker": "04",
+      "items": [
+        { "en": "Burrata Cheese and Tomato Salad", "th": "ชีสบุรัตต้าสลัดมะเขือเทศ", "price": 490, "img": "burrata-tomato" },
+        { "en": "Green Beans and Peas Salad", "th": "สลัดถั่วหวานกับซอสบัลซามิก", "price": 280, "img": "greenbean-peas" },
+        { "en": "Grilled Caesar Salad", "th": "กริลล์ซีซาร์สลัด", "price": 260, "img": "caesar", "star": true },
+        { "en": "Green Salad with Balsamic Dressing", "th": "สลัดรวมกับซอสบัลซามิก", "price": 260, "img": "green-salad" },
+        { "en": "Tomato Salad", "th": "สลัดมะเขือเทศ", "price": 100, "img": "tomato-salad" }
+      ]
+    },
+    { "id": "seasonal", "en": "Seasonal — Avocado", "th": "เมนูตามฤดูกาล · อะโวคาโด", "kicker": "05",
+      "seasonal": true,
+      "note_en": "Served on a separate seasonal card. Ask whether it is still running.",
+      "note_th": "แยกเป็นเมนูพิเศษตามฤดูกาล ถามหน้าร้านได้ว่าช่วงนี้ยังมีอยู่ไหม",
+      "items": [
+        { "en": "Burrata Salad with Roasted Tomatoes & Guacamole", "th": "สลัดบุรัตต้ากับมะเขือเทศอบและกัวคาโมเล", "price": 590, "img": "burrata-guacamole" },
+        { "en": "Grilled Corn & Avocado Salad", "th": "สลัดข้าวโพดย่างกับอะโวคาโด", "price": 280, "img": "corn-avocado-salad" },
+        { "en": "Crispy Fried Avocado", "th": "อะโวคาโดทอดกรอบ", "price": 250, "img": "fried-avocado" },
+        { "en": "Crispy Corn Fritters with Guacamole", "th": "ข้าวโพดทอดกรอบกับกัวคาโมเล", "price": 220, "img": "corn-fritters" }
+      ]
+    },
+    { "id": "rice", "en": "Rice", "th": "ข้าว", "kicker": "06",
+      "items": [
+        { "en": "Rice with Stir-Fried Basil and Grilled Beef", "th": "ข้าวกะเพราคลุกเนื้อย่าง", "price": 390, "img": "basil-beef-rice", "star": true },
+        { "en": "Beef Fried Rice with Grilled Beef", "th": "ข้าวผัดมันเนื้อย่าง", "price": 390, "img": "beef-fried-rice" },
+        { "en": "American Fried Rice", "th": "ข้าวผัดอเมริกัน", "price": 350, "img": "american-fried-rice" }
+      ]
+    },
+    { "id": "side", "en": "Side Dishes", "th": "เครื่องเคียง", "kicker": "07",
+      "items": [
+        { "en": "Mashed Potato", "th": "มันบด", "price": 120, "img": "mashed-potato" },
+        { "en": "Sauteed Green Beans Bacon", "th": "ถั่วแขกผัดเบคอน", "price": 120, "img": "greenbeans-bacon" },
+        { "en": "Sauteed Mini Broccoli", "th": "บรอกโคลีเล็กผัด", "price": 120, "img": "mini-broccoli" },
+        { "en": "Sauteed Mushrooms", "th": "เห็ดผัด", "price": 120, "img": "mushrooms" },
+        { "en": "Sauteed Potato", "th": "มันฝรั่งผัด", "price": 100, "img": "sauteed-potato" },
+        { "en": "Garlic Confit", "th": "กระเทียมคอนฟี", "price": 100, "img": "garlic-confit" },
+        { "en": "French Fries", "th": "เฟรนช์ฟรายส์", "price": 90, "img": "french-fries" }
+      ]
+    },
+    { "id": "dessert", "en": "Dessert", "th": "ของหวาน", "kicker": "08",
+      "items": [
+        { "en": "Tiramisu", "th": "ทีรามิสุ", "price": 180, "img": "tiramisu" },
+        { "en": "Crème Brûlée Lemon", "th": "เครมบรูเล่เลมอน", "price": 160, "img": "creme-brulee" }
+      ]
+    }
+  ],
+  "drinks": [
+    { "id": "matcha", "en": "Special Matcha", "th": "มัทฉะพิเศษ",
+      "footnote_en": "We source our matcha straight from Japan.",
+      "footnote_th": "มัทฉะนำเข้าตรงจากญี่ปุ่น",
+      "twocol": true, "colA": "Hot", "colB": "Iced", "colA_th": "ร้อน", "colB_th": "เย็น",
+      "items": [
+        { "en": "Coconut Matcha Cold Foam", "a": 0, "b": 165 },
+        { "en": "Strawberry Matcha Latte", "a": 0, "b": 165 },
+        { "en": "Earl Grey Matcha Latte", "a": 0, "b": 165 },
+        { "en": "Red Bean Matcha Latte", "a": 0, "b": 160 },
+        { "en": "Biscoff Matcha Latte", "a": 0, "b": 160 },
+        { "en": "Nutella Matcha Latte", "a": 0, "b": 160 },
+        { "en": "Coconut Matcha", "a": 0, "b": 150 },
+        { "en": "Matcha Latte", "a": 120, "b": 150 },
+        { "en": "Longan Matcha", "a": 0, "b": 150 },
+        { "en": "Orange Matcha", "a": 0, "b": 150 },
+        { "en": "Clear Matcha", "a": 0, "b": 130 },
+        { "en": "Dirty Matcha", "a": 0, "b": 130 }
+      ]
+    },
+    { "id": "milky", "en": "Milky", "th": "นม",
+      "items": [
+        { "en": "Strawberry Cocao", "price": 130 },
+        { "en": "Caramel Fresh Milk", "price": 100 },
+        { "en": "Chocolate", "price": 100 },
+        { "en": "Matcha Latte", "price": 100 },
+        { "en": "Thai Tea", "price": 100 }
+      ]
+    },
+    { "id": "soda", "en": "Soda", "th": "โซดา",
+      "items": [
+        { "en": "Strawberry Soda", "price": 100 },
+        { "en": "Blueberry Soda", "price": 100 },
+        { "en": "Apple Soda", "price": 100 }
+      ]
+    },
+    { "id": "juice", "en": "Fresh Juice", "th": "น้ำผลไม้สด",
+      "items": [
+        { "en": "Cold Pressed Watermelon", "price": 100 },
+        { "en": "Orange Juice", "price": 100 },
+        { "en": "Coconut Water", "price": 100 },
+        { "en": "Longan Juice", "th": "น้ำลำไย", "price": 80 }
+      ]
+    },
+    { "id": "beer", "en": "Draft Beer", "th": "เบียร์สด",
+      "promo_en": "Promotion — buy 3 get 1 free",
+      "promo_th": "โปรโมชั่น 3 แถม 1",
+      "twocol": true, "colA": "250 ml", "colB": "500 ml", "colA_th": "250 มล.", "colB_th": "500 มล.",
+      "items": [
+        { "en": "Hoegaarden White", "a": 180, "b": 295 },
+        { "en": "Hoegaarden Rosée", "a": 180, "b": 295 },
+        { "en": "Stellar", "a": 180, "b": 295 }
+      ]
+    },
+    { "id": "bottled", "en": "Bottled Beer & Spirits", "th": "เบียร์ขวดและสุรา",
+      "items": [
+        { "en": "Regency", "th": "350 มล.", "price": 550 },
+        { "en": "Beer Budweiser", "price": 120 },
+        { "en": "Beer Singha", "price": 120 },
+        { "en": "Beer Chang Classic", "price": 110 }
+      ]
+    },
+    { "id": "soft", "en": "Soft Drinks", "th": "เครื่องดื่ม",
+      "items": [
+        { "en": "Mont Fleur", "price": 30 },
+        { "en": "Soda Singha", "price": 30 },
+        { "en": "Singha Lemon Soda", "price": 30 },
+        { "en": "Pepsi Original", "price": 30 },
+        { "en": "Pepsi Zero", "price": 30 },
+        { "en": "Sprite", "price": 30 },
+        { "en": "Ice", "price": 30 }
+      ]
+    }
+  ]
+}

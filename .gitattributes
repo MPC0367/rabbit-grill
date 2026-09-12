@@ -1,0 +1,6 @@
+# Normalise text in the repo, but keep PowerShell CRLF.
+* text=auto
+*.ps1 text eol=crlf
+*.jpg binary
+*.png binary
+*.pdf binary

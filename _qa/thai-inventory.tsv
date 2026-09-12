@@ -1,0 +1,268 @@
+﻿file	role	thai	english
+index.html	a.skip	ข้ามไปยังเนื้อหา	Skip to content
+index.html	i	โรงย่างเนื้อ · เขาใหญ่	โรงย่างเนื้อ · Khao Yai
+index.html	a	เมนู	Menu
+index.html	a	เตาไฟ	The Fire
+index.html	a	มาหาเรา	Visit
+index.html	a.btn.nav__cta	เส้นทาง	Directions
+index.html	span	เมนู	Menu
+index.html	span	เตาไฟ	The Fire
+index.html	span	มาหาเรา	Visit
+index.html	span	เส้นทาง	Directions
+index.html	dt	จากเคาน์เตอร์	From the counter
+index.html	dt	วิธีปรุง	Method
+index.html	dd	ถ่านและไฟ	Charcoal and fire
+index.html	dt	ปิด	Closed
+index.html	dd	ทุกวันพุธ	Every Wednesday
+index.html	span	โรงย่างเนื้อ — ปากช่อง เขาใหญ่	Rabbit Grill — Pak Chong, Khao Yai
+index.html	h1.dsp.dsp--xl.lines	<span><span>ให้<span class='fire'>ไฟ</span></span></span><span><span>เป็นคนปรุง</span></span>	Fire does the cooking .
+index.html	p.lede.hero__lede	โรงย่างเนื้อกลางเขาใหญ่ ครัวเปิดโล่ง นั่งชิดได้เลย กลิ่นถ่าน เสียงคุยเต็มร้าน ส่วนไพร์มริบ โต๊ะคุณอยากกินเท่าไหร่ เราหั่นให้เท่านั้น	A grill house in Khao Yai with an open kitchen you can sit right next to. Charcoal smoke, a loud room, and a prime rib carved to whatever weight your table actually feels like eating.
+index.html	a.btn.btn--ember.btn--lg	ดูเมนู	View the menu
+index.html	span	เส้นทางไปร้าน	Get directions
+index.html	span	เมนู	Menu
+index.html	p.way__d	39 จาน ราคาครบ รูปครบ	39 dishes, every price, every photograph
+index.html	span	เตาไฟ	The Fire
+index.html	p.way__d	ถ่าน ครัวเปิด คนที่ยืนอยู่หน้าเตา	Charcoal, the open kitchen, and who is working it
+index.html	span	มาหาเรา	Visit
+index.html	p.way__d	เราอยู่ตรงไหน เปิดกี่โมง ติดต่อยังไง	Where we are, when we are open, how to reach us
+index.html	span	แนวคิด	The idea
+index.html	h2.dsp.dsp--l.lines	<span><span>เรื่องดี ๆ</span></span><span><span>มักเริ่มต้น</span></span><span><span>รอบกองไฟ</span></span>	Good things happen around fire.
+index.html	p.shead__lede.lede.lede--wide	Rabbit Grill เป็นร้านอาหารย่างกลางเขาใหญ่ จานใหญ่ แบ่งกันกิน มื้อที่ไม่ต้องรีบ ที่นี่ไม่ใช่ห้องอาหารเงียบ ๆ แต่เป็นครัวที่ได้ยินเสียง ได้กลิ่น และนั่งอยู่ข้าง ๆ ได้	Rabbit Grill is a place for grilled food, generous plates and unhurried meals in Khao Yai. Not a hushed dining room — a kitchen you can hear, smell and sit beside.
+index.html	p.serif-quote	“พอครัวเริ่มยุ่ง Rabbit Grill ก็มีชีวิตขึ้นมา”	"When the kitchen gets busy, Rabbit Grill comes alive."
+index.html	cite	คำของร้านเอง — อินสตาแกรม	Rabbit Grill, in their own words — Instagram
+index.html	figcaption	ครัวเปิด ตอนร้านกำลังแน่น	The open kitchen, mid-service
+index.html	span	ห้องอาหาร	The room
+index.html	h2.dsp.dsp--m	ขยับเข้ามาใกล้ไฟ	Pull up close to the fire.
+index.html	p.shead__lede.lede	ครัวอยู่ตรงหน้า โคมทองแดงให้ความร้อน โต๊ะเต็มทั้งร้าน คนย่างยืนห่างจากโต๊ะคุณไม่กี่ก้าว	The pass is right there — copper heat lamps, a full room, and whoever is working the grill standing a few steps from your table.
+index.html	figcaption	ครัวเปิด กับโต๊ะที่นั่งชิดที่สุด	The open kitchen, and the seats closest to it
+index.html	figcaption	ที่หน้าเตา	At the pass
+index.html	figcaption	คืนที่ร้านแน่น	A full night
+index.html	span	เคาน์เตอร์	The counter
+index.html	h2.dsp.dsp--l	หั่นตามสั่ง<span class='hand'>ตัดทำได้หมด</span>	Cut to order. ตัดทำได้หมด
+index.html	p.shead__lede.lede	ไพร์มริบที่นี่ไม่ขายเป็นจาน แต่ขายเป็นน้ำหนัก 100 กรัม 490 บาท ลากมีดไปบนชิ้นเนื้อ แล้วดูว่าโต๊ะคุณสั่งไปเท่าไหร่	Prime rib here is not sold by the plate. It is sold by the 100 grams — 490 ฿ a cut. Drag across the rib and watch what your table is actually ordering.
+index.html	p.board__hint	ลากเพื่อหั่น	Drag to carve
+index.html	dt	จำนวนชิ้น	Cuts
+index.html	dt	น้ำหนัก	Weight
+index.html	dt	ราคา	Price
+index.html	a.btn.btn--ghost	ดูเมนูเนื้อทั้งหมด	See the whole beef list
+index.html	p.carve__note	ราคา 490 บาท / 100 กรัม มาจากเมนูจริงของร้าน ภาพคือไพร์มริบของร้านเอง	490 ฿ per 100 g is the price on their current menu. The rib in the photograph is theirs.
+index.html	span	จากเตา	From the grill
+index.html	h2.dsp.dsp--l.lines	<span><span>ปล่อยให้ไฟ</span></span><span><span>เล่าเอง</span></span>	Fire does the talking.
+index.html	p.shead__lede.lede	หมู ผัก ทะเล เนื้อ — ทุกอย่างผ่านถ่านและไฟ	Pork. Vegetables. Seafood. Beef. Everything goes over the charcoal.
+index.html	p.dish__no	หมู · จากเตา	Pork · from the grill
+index.html	p.dish__no	ทะเล · จากเตา	Seafood · from the grill
+index.html	p.dish__no	เรียกน้ำย่อย · เนื้อ	To start · beef
+index.html	p.dish__no	เรียกน้ำย่อย · ผัก	To start · vegetable
+index.html	span	ดูเมนูทั้งหมด	The whole menu
+index.html	span	ในครัว	The house
+index.html	h2.dsp.dsp--l.lines	<span><span>เนื้อ</span></span><span><span>ไฟ</span></span><span><span>เวลา</span></span>	Meat. Heat. Time.
+index.html	p.shead__lede.lede	ร้านแนะนำตัวเองว่าเป็น “โรงย่างเนื้อที่คัดเฉพาะเนื้อคุณภาพดี ย่างด้วยไฟอย่างพิถีพิถัน” และบอกว่าคนคุมเตาคือเชฟผู้เชี่ยวชาญด้านเนื้อ	The restaurant describes itself as a grill house that selects only good meat and cooks it carefully over fire — run, in their words, by a chef who specialises in beef.
+index.html	p.serif-quote	“โดยเชฟผู้เชี่ยวชาญด้านเนื้อ เชฟบัส Top Chef Thailand”	"By a beef specialist — Chef Bas, Top Chef Thailand"
+index.html	cite.tag	ประกาศของร้านเอง เฟซบุ๊ก 23 เมษายน	Rabbit Grill's own announcement, Facebook, 23 April
+index.html	span	เรื่องของเตาไฟ	More about the fire
+index.html	figcaption	“ทุกจานที่ดีเริ่มจากการดูแลตั้งแต่ยังดิบ”	"Every great dish begins with raw care"
+index.html	figcaption	“ทุกรายละเอียดเริ่มจากสองมือ”	"Every detail begins with a pair of hands"
+index.html	span	หนองน้ำแดง	Nong Nam Daeng
+index.html	h2.dsp.dsp--xl.lines	<span><span>ออกจากกรุงเทพฯ</span></span><span><span>มุ่งหน้าเขาใหญ่</span></span>	Out of Bangkok. Into Khao Yai.
+index.html	p.shead__lede.lede	สนุกตั้งแต่ทางมาแล้ว เราอยู่ที่ 339 หมู่ 11 ตำบลหนองน้ำแดง อำเภอปากช่อง พื้นที่เดียวกับ Rosebay Homecooking Cafe	Part of the pleasure is getting here. We are at 339 Moo 11, Nong Nam Daeng, Pak Chong — on the same grounds as Rosebay Homecooking Cafe.
+index.html	span	พาฉันไปที่นั่น	Take me there
+index.html	p.tag	โทร 099 245 5444 · 11:00–21:00 น. · ปิดทุกวันพุธ	Call 099 245 5444 · 11:00–21:00 · Closed Wednesdays
+index.html	span	มากับสัตว์เลี้ยง	Coming with a pet
+index.html	h2.dsp.dsp--m.lines	<span><span>พาน้องหมา</span></span><span><span>มาด้วยไหม</span></span>	Driving up with a dog?
+index.html	p.shead__lede.lede	โทรมาก่อนออกเดินทาง เดี๋ยวเราบอกได้ว่าวันนั้นดูแลกันได้แค่ไหน	Ring us before you set out and we will tell you what we can do for you on the day.
+index.html	p	เรายังไม่ได้ประกาศกฎเรื่องสัตว์เลี้ยงแบบตายตัว ถามมาตรง ๆ ดีกว่าเดา โทรมาถามจะเร็วที่สุด	We have not published a fixed pet policy, so it is better to ask us than to guess. The phone is fastest.
+index.html	span	ทักมาทางอินสตาแกรม	Message on Instagram
+index.html	figcaption	ทุกเพศทุกวัย — คำของร้านเอง	"ทุกเพศทุกวัย" — everyone, all ages. Their words.
+index.html	span	มีอะไรอยู่บนเตา	What is on the grill
+index.html	h2.dsp.dsp--m	อัปเดตล่าสุดจากเขาใหญ่	The latest from Khao Yai.
+index.html	h3	ที่อยู่	Address
+index.html	p	339 หมู่ 11 ตำบลหนองน้ำแดง<br>อำเภอปากช่อง จังหวัดนครราชสีมา	339 Moo 11, Nong Nam Daeng Pak Chong, Nakhon Ratchasima
+index.html	p.visit__flag	อยู่ในพื้นที่เดียวกับ Rosebay Homecooking Cafe	On the same grounds as Rosebay Homecooking Cafe
+index.html	h3	โทรศัพท์	Phone
+index.html	p.visit__flag	จองโต๊ะและสอบถามทางโทรศัพท์ หรือทักมาทางโซเชียล	For questions and tables, call or message us on social
+index.html	h3	เวลาเปิด	Hours
+index.html	p	11:00 – 21:00 น. · ปิดทุกวันพุธ	11:00 – 21:00 · Closed Wednesdays
+index.html	p.visit__flag	ปิดวันพุธ เป็นประกาศจากร้านเอง เวลามาจาก Google กับ Wongnai	Wednesday closing is the restaurant's own notice. The times come from their Google and Wongnai listings.
+index.html	h3	คะแนนรีวิว	Rated
+index.html	i	จาก 58 รีวิวบน Google	from 58 Google reviews
+index.html	span	ดูรีวิวบน Google	See the reviews on Google
+index.html	span	เปิดใน Google Maps	Open in Google Maps
+index.html	i	เขาใหญ่ · ประเทศไทย	Khao Yai · Thailand
+index.html	h4	ดูเพิ่มเติม	Explore
+index.html	a.tlink	เมนู	Menu
+index.html	a.tlink	เตาไฟ	The Fire
+index.html	a.tlink	มาหาเรา	Visit
+index.html	h4	ติดตาม	Follow
+index.html	h4.tag	มาหาเรา	Find us
+index.html	p	339 หมู่ 11 ตำบลหนองน้ำแดง<br>อำเภอปากช่อง จังหวัดนครราชสีมา 30130	339 Moo 11, Nong Nam Daeng Pak Chong, Nakhon Ratchasima 30130
+index.html	span	โรงย่างเนื้อ · หนองน้ำแดง · เขาใหญ่	โรงย่างเนื้อ · Nong Nam Daeng · Khao Yai
+index.html	span	เมนู	Menu
+index.html	span	เส้นทาง	Directions
+index.html	span	โทร	Call
+menu.html	a.skip	ข้ามไปยังเนื้อหา	Skip to content
+menu.html	i	โรงย่างเนื้อ · เขาใหญ่	โรงย่างเนื้อ · Khao Yai
+menu.html	a	เมนู	Menu
+menu.html	a	เตาไฟ	The Fire
+menu.html	a	มาหาเรา	Visit
+menu.html	a.btn.nav__cta	เส้นทาง	Directions
+menu.html	span	เมนู	Menu
+menu.html	span	เตาไฟ	The Fire
+menu.html	span	มาหาเรา	Visit
+menu.html	span	เส้นทาง	Directions
+menu.html	span	เมนู	The menu
+menu.html	h1.dsp.dsp--l.lines	<span><span>ทุกอย่าง</span></span><span><span>ที่ผ่านไฟ</span></span>	Everything the fire touches.
+menu.html	p.lede.lede--wide	ราคาทั้งหมดเป็นเงินบาท ถอดมาจากเมนูจริงของร้าน จานที่มีจุด ● คือจานที่ร้านถ่ายรูปไว้เอง เมนูมีเปลี่ยนบ้าง เช็กที่หน้าร้านอีกทีได้เลย	All prices in Thai baht, taken from Rabbit Grill's own menu card. Dishes marked ● are the ones they have photographed. Menus change — please check at the restaurant.
+menu.html	a	เนื้อ	Beef Selection
+menu.html	a	จานหลักจากเตา	From the Grill
+menu.html	a	ของเรียกน้ำย่อย	Appetizers
+menu.html	a	สลัด	Salads
+menu.html	a	เมนูตามฤดูกาล — อะโวคาโด	Seasonal — Avocado
+menu.html	a	ข้าว	Rice
+menu.html	a	เครื่องเคียง	Side Dishes
+menu.html	a	ของหวาน	Dessert
+menu.html	a	เครื่องดื่ม	Drinks
+menu.html	h2	เนื้อ	Beef Selection
+menu.html	p.mcat__note	หัวใจของโรงย่างเนื้อ ไพร์มริบคิดราคาตามน้ำหนัก	The counter cuts. Prime rib is sold by weight.
+menu.html	span.mrow__u	ต่อ 100 กรัม	per 100 g
+menu.html	span.mrow__u	300 กรัม	300 g
+menu.html	h2	จานหลักจากเตา	From the Grill
+menu.html	p.mcat__note	หมู ไก่ ปลา และทุกอย่างที่ผ่านไฟ	Pork, bird, fish — everything the fire touches.
+menu.html	h2	ของเรียกน้ำย่อย	Appetizers
+menu.html	h2	สลัด	Salads
+menu.html	h2	เมนูตามฤดูกาล — อะโวคาโด	Seasonal — Avocado
+menu.html	span.mbadge	ตามฤดูกาล	Seasonal
+menu.html	p.mcat__note	เป็นเมนูพิเศษตามฤดูกาล กรุณาสอบถามหน้าร้านว่ายังมีอยู่หรือไม่	Served on a separate seasonal card. Ask whether it is still running.
+menu.html	h2	ข้าว	Rice
+menu.html	h2	เครื่องเคียง	Side Dishes
+menu.html	h2	ของหวาน	Dessert
+menu.html	span	เครื่องดื่ม	Drinks
+menu.html	h2.dsp.dsp--m	บาร์ และเคาน์เตอร์มัทฉะ	The bar and the matcha counter.
+menu.html	p.lede.lede--wide	เบียร์สด มัทฉะนำเข้าจากญี่ปุ่น น้ำผลไม้คั้นสด และโซดา	Draft beer, matcha brought in from Japan, cold-pressed juice and soda.
+menu.html	h2	มัทฉะพิเศษ	Special Matcha
+menu.html	p.mfoot	มัทฉะนำเข้าตรงจากญี่ปุ่น	We source our matcha straight from Japan.
+menu.html	h2	นม	Milky
+menu.html	h2	โซดา	Soda
+menu.html	h2	น้ำผลไม้สด	Fresh Juice
+menu.html	h2	เบียร์สด	Draft Beer
+menu.html	span.mpromo	โปรโมชั่น 3 แถม 1	Promotion — buy 3 get 1 free
+menu.html	h2	เบียร์ขวดและสุรา	Bottled Beer & Spirits
+menu.html	h2	เครื่องดื่ม	Soft Drinks
+menu.html	h2.dsp.dsp--s	พร้อมสั่งแล้วหรือยัง	Ready to order?
+menu.html	p.lede	โทรมาถามเรื่องโต๊ะ หรือกดเส้นทางแล้วขับมาเลย	Call us about a table, or just point the car at us.
+menu.html	span	เส้นทาง	Directions
+menu.html	i	เขาใหญ่ · ประเทศไทย	Khao Yai · Thailand
+menu.html	h4	ดูเพิ่มเติม	Explore
+menu.html	a.tlink	เมนู	Menu
+menu.html	a.tlink	เตาไฟ	The Fire
+menu.html	a.tlink	มาหาเรา	Visit
+menu.html	h4	ติดตาม	Follow
+menu.html	h4.tag	มาหาเรา	Find us
+menu.html	p	339 หมู่ 11 ตำบลหนองน้ำแดง<br>อำเภอปากช่อง จังหวัดนครราชสีมา 30130	339 Moo 11, Nong Nam Daeng Pak Chong, Nakhon Ratchasima 30130
+menu.html	span	โรงย่างเนื้อ · หนองน้ำแดง · เขาใหญ่	โรงย่างเนื้อ · Nong Nam Daeng · Khao Yai
+menu.html	span	เมนู	Menu
+menu.html	span	เส้นทาง	Directions
+menu.html	span	โทร	Call
+fire.html	a.skip	ข้ามไปยังเนื้อหา	Skip to content
+fire.html	i	โรงย่างเนื้อ · เขาใหญ่	โรงย่างเนื้อ · Khao Yai
+fire.html	a	เมนู	Menu
+fire.html	a	เตาไฟ	The Fire
+fire.html	a	มาหาเรา	Visit
+fire.html	a.btn.nav__cta	เส้นทาง	Directions
+fire.html	span	เมนู	Menu
+fire.html	span	เตาไฟ	The Fire
+fire.html	span	มาหาเรา	Visit
+fire.html	span	เส้นทาง	Directions
+fire.html	span	เตาไฟ	The fire
+fire.html	h1.dsp.dsp--l.lines	<span><span>เนื้อ</span></span><span><span>ไฟ</span></span><span><span>เวลา</span></span>	Meat. Heat. Time.
+fire.html	p.lede.lede--wide	Rabbit Grill เรียกตัวเองว่า “โรงย่างเนื้อสไตล์ Fire Cooking” จากนี้คือสิ่งที่ร้านเล่าถึงตัวเอง เป็นคำของร้าน ไม่ใช่คำของเรา	Rabbit Grill calls itself a fire-cooking grill house. What follows is what they say about themselves, in their words rather than ours.
+fire.html	p.tag.tag--accent	จากหน้าปกเมนูของร้าน	From the cover of their menu card
+fire.html	p.serif-quote	“โรงย่างเนื้อแห่งเขาใหญ่ ที่ยึดความคลาสสิกของการย่างแบบดั้งเดิม คัดเฉพาะเนื้อคุณภาพดี ถูกย่างด้วยไฟอย่างพิถีพิถัน”	"Rabbit Grill is a fire-grill restaurant that carefully selects quality ingredients and brings them to life through our style of fire cooking."
+fire.html	span	คนที่คุมเตา	Who is on the grill
+fire.html	h2.dsp.dsp--m	เชฟที่ทำงานกับเนื้อ	A chef who works in beef.
+fire.html	p.lede	เมื่อเดือนเมษายน 2026 ร้านประกาศบนเฟซบุ๊กของตัวเองว่า:	In April 2026 the restaurant announced on its own Facebook page:
+fire.html	p.serif-quote	“Rabbit Grill โรงย่างเนื้อเขาใหญ่ สไตล์ Home Cooking โดยเชฟผู้เชี่ยวชาญด้านเนื้อ เชฟบัส Top Chef Thailand”	"Rabbit Grill, a Khao Yai grill house in a home-cooking style, by a chef who specialises in beef — Chef Bas, Top Chef Thailand."
+fire.html	cite.tag	Rabbit Grill Khao Yai · เฟซบุ๊ก · 23 เมษายน 2026	Rabbit Grill Khao Yai · Facebook · 23 April 2026
+fire.html	p.visit__flag	นี่คือคำแนะนำตัวของร้านเอง เรายังไม่ได้ยืนยันรายละเอียดซีซันหรืออันดับในรายการจากแหล่งอื่น	That is the restaurant's own introduction. Season and placing on the programme are not independently confirmed here.
+fire.html	span	สิ่งที่ออกมาจากเตา	What comes off it
+fire.html	h2.dsp.dsp--l.lines	<span><span>เนื้อ ไก่ หมู</span></span><span><span>และของจากแม่น้ำ</span></span>	Beef, bird, pork, and the river.
+fire.html	p	คิดราคาตามน้ำหนัก 490 บาท / 100 กรัม	Priced by weight — 490 ฿ / 100 g
+fire.html	p	ซี่โครงหมูย่าง 590 บาท	ซี่โครงหมูย่าง — 590 ฿
+fire.html	p	กุ้งแม่น้ำย่าง 990 บาท	กุ้งแม่น้ำย่าง — 990 ฿
+fire.html	p	ลิ้นวัวย่าง 590 บาท	ลิ้นวัวย่าง — 590 ฿
+fire.html	span	ดูเมนูทั้งหมด	The whole menu
+fire.html	span	ห้องอาหาร	The room
+fire.html	h2.dsp.dsp--m	ครัวเปิด ห้องที่มีชีวิต	An open kitchen, a loud room.
+fire.html	p.lede	โต๊ะที่ดีที่สุดคือโต๊ะที่ได้ยินเสียงไฟ	The best seats are the ones where you can hear the fire.
+fire.html	figcaption	ครัวเปิด กับโต๊ะที่นั่งชิดที่สุด	The open kitchen, and the seats closest to it
+fire.html	figcaption	ที่หน้าเตา	At the pass
+fire.html	figcaption	คืนที่ร้านแน่น	A full night
+fire.html	span	คำของร้านเอง	In their own words
+fire.html	p.hand	“ทุกจานที่ดีเริ่มจากการดูแลตั้งแต่ยังดิบ”	"Every great dish begins with raw care."
+fire.html	p.hand	“มุมมองต่างกัน แต่ Rabbit Grill เดียวกัน”	"Different perspectives. One Rabbit Grill."
+fire.html	p.tag	เก็บจากโพสต์ของ @rabbitgrill.khaoyai	Collected from posts by @rabbitgrill.khaoyai
+fire.html	i	เขาใหญ่ · ประเทศไทย	Khao Yai · Thailand
+fire.html	h4	ดูเพิ่มเติม	Explore
+fire.html	a.tlink	เมนู	Menu
+fire.html	a.tlink	เตาไฟ	The Fire
+fire.html	a.tlink	มาหาเรา	Visit
+fire.html	h4	ติดตาม	Follow
+fire.html	h4.tag	มาหาเรา	Find us
+fire.html	p	339 หมู่ 11 ตำบลหนองน้ำแดง<br>อำเภอปากช่อง จังหวัดนครราชสีมา 30130	339 Moo 11, Nong Nam Daeng Pak Chong, Nakhon Ratchasima 30130
+fire.html	span	โรงย่างเนื้อ · หนองน้ำแดง · เขาใหญ่	โรงย่างเนื้อ · Nong Nam Daeng · Khao Yai
+fire.html	span	เมนู	Menu
+fire.html	span	เส้นทาง	Directions
+fire.html	span	โทร	Call
+visit.html	a.skip	ข้ามไปยังเนื้อหา	Skip to content
+visit.html	i	โรงย่างเนื้อ · เขาใหญ่	โรงย่างเนื้อ · Khao Yai
+visit.html	a	เมนู	Menu
+visit.html	a	เตาไฟ	The Fire
+visit.html	a	มาหาเรา	Visit
+visit.html	a.btn.nav__cta	เส้นทาง	Directions
+visit.html	span	เมนู	Menu
+visit.html	span	เตาไฟ	The Fire
+visit.html	span	มาหาเรา	Visit
+visit.html	span	เส้นทาง	Directions
+visit.html	span	มาหาเรา	Visit
+visit.html	h1.dsp.dsp--l.lines	<span><span>ออกจากกรุงเทพฯ</span></span><span><span>มุ่งหน้าเขาใหญ่</span></span>	Out of Bangkok. Into Khao Yai.
+visit.html	p.tag	ที่อยู่	Address
+visit.html	p.dsp.dsp--s	339 หมู่ 11<br>ตำบลหนองน้ำแดง อำเภอปากช่อง<br>จังหวัดนครราชสีมา 30130	339 Moo 11, Nong Nam Daeng Pak Chong, Nakhon Ratchasima 30130 Thailand
+visit.html	p.visit__flag	อยู่ในพื้นที่เดียวกับ Rosebay Homecooking Cafe — ใช้เป็นจุดสังเกตได้ เราไม่ได้เป็นเจ้าของหรือในเครือเดียวกัน	On the same grounds as Rosebay Homecooking Cafe — useful as a landmark. No ownership or affiliation is implied.
+visit.html	span	เปิดใน Google Maps	Open in Google Maps
+visit.html	p.tag	เวลาเปิด	Hours
+visit.html	p.dsp.dsp--s	11:00 – 21:00 น.<br>ปิดทุกวันพุธ	11:00 – 21:00 Closed Wednesdays
+visit.html	p.visit__flag	ปิดวันพุธ เป็นประกาศจากร้านเอง ส่วนเวลา 11:00–21:00 น. มาจาก Google กับ Wongnai ไม่ได้มาจากร้านโดยตรง ถ้าขับรถมาไกล โทรเช็กก่อนอีกทีดีกว่า	The Wednesday closure is the restaurant's own notice. The 11:00–21:00 hours come from their Google and Wongnai listings rather than from the restaurant directly — ring to confirm before a long drive.
+visit.html	p.tag	จองโต๊ะ	Tables
+visit.html	p	ยังไม่มีระบบจองออนไลน์ โทรมาได้เลย หรือทักมาทาง Facebook / Instagram	There is no online booking. Call, or message us on Facebook or Instagram.
+visit.html	p.tag	คะแนนรีวิว	Rated
+visit.html	i	จาก 58 รีวิวบน Google	from 58 Google reviews
+visit.html	p.visit__flag	ที่อยู่แบบ Plus Code: JCJ3+CGF มอกระหาด หนองน้ำแดง	Plus code JCJ3+CGF, Mo Kra Hat, Nong Nam Daeng
+visit.html	p.tag	ติดต่อ	Contact
+visit.html	span	การเดินทาง	Getting here
+visit.html	h2.dsp.dsp--m	สนุกตั้งแต่ทางมาแล้ว	Part of the pleasure is the drive.
+visit.html	p.lede	เราอยู่ที่หนองน้ำแดง อำเภอปากช่อง ในเขตเขาใหญ่ ถ้าคุณกำลังเที่ยวเขาใหญ่อยู่แล้ว เราอยู่ระหว่างทาง	We are in Nong Nam Daeng, Pak Chong, inside the Khao Yai area. If you are already up here for the weekend, we are on the way.
+visit.html	span	มากับสัตว์เลี้ยง	Coming with a pet
+visit.html	h2.dsp.dsp--m.lines	<span><span>พาน้องหมา</span></span><span><span>มาด้วยไหม</span></span>	Driving up with a dog?
+visit.html	p.lede	โทรมาก่อนออกเดินทาง เดี๋ยวเราบอกได้ว่าวันนั้นดูแลกันได้แค่ไหน	Ring us before you set out and we will tell you what we can do for you on the day.
+visit.html	p	เรายังไม่ได้ประกาศกฎเรื่องสัตว์เลี้ยงแบบตายตัว ถามมาตรง ๆ ดีกว่าเดา โทรมาถามจะเร็วที่สุด	We have not published a fixed pet policy, so it is better to ask us than to guess. The phone is fastest.
+visit.html	span	ทักมาทางอินสตาแกรม	Message on Instagram
+visit.html	figcaption	339 หมู่ 11 หลังพระอาทิตย์ตก	339 Moo 11, after dark
+visit.html	span	ก่อนมา	Before you come
+visit.html	h2.dsp.dsp--m	โทรถามไว้ก่อนดีที่สุด	Worth a phone call.
+visit.html	h3	วันพุธ	Wednesdays
+visit.html	p	ปิดทุกวันพุธ อย่าขับรถมาเสียเที่ยว	We are closed every Wednesday. Do not make the drive for nothing.
+visit.html	h3	โต๊ะใหญ่	Large groups
+visit.html	p	มาหลายคนหรือมีเมนูที่อยากสั่งล่วงหน้า โทรบอกเราไว้ก่อนได้	Coming as a group, or want something put aside? Tell us ahead.
+visit.html	h3	เมนูตามฤดูกาล	Seasonal dishes
+visit.html	p	เมนูอะโวคาโดเป็นเมนูพิเศษตามฤดูกาล สอบถามว่ายังมีอยู่ไหม	The avocado card is seasonal. Ask whether it is still running.
+visit.html	i	เขาใหญ่ · ประเทศไทย	Khao Yai · Thailand
+visit.html	h4	ดูเพิ่มเติม	Explore
+visit.html	a.tlink	เมนู	Menu
+visit.html	a.tlink	เตาไฟ	The Fire
+visit.html	a.tlink	มาหาเรา	Visit
+visit.html	h4	ติดตาม	Follow
+visit.html	h4.tag	มาหาเรา	Find us
+visit.html	p	339 หมู่ 11 ตำบลหนองน้ำแดง<br>อำเภอปากช่อง จังหวัดนครราชสีมา 30130	339 Moo 11, Nong Nam Daeng Pak Chong, Nakhon Ratchasima 30130
+visit.html	span	โรงย่างเนื้อ · หนองน้ำแดง · เขาใหญ่	โรงย่างเนื้อ · Nong Nam Daeng · Khao Yai
+visit.html	span	เมนู	Menu
+visit.html	span	เส้นทาง	Directions
+visit.html	span	โทร	Call

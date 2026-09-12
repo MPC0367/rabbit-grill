@@ -1,0 +1,48 @@
+# =============================================================
+#  Rabbit Grill Khao Yai - what does NOT go in the repo
+#
+#  Rule of thumb: commit the SOURCE and the PIPELINE, not the
+#  raw material it was made from and not what it produces.
+#
+#  Everything the site actually serves (img/*.jpg, css, js,
+#  data, the four pages) IS committed, so a fresh clone runs
+#  and rebuilds without any of the files listed below.
+# =============================================================
+
+# ---- source material, not source code ----------------------
+# The restaurant own menu PDFs and the page scans pulled out of
+# them. ~80 MB, and menu-food.pdf alone is 35 MB. The dish
+# photos were already cropped out of these into img/, and every
+# price already lives in data/menu.json, so nothing downstream
+# needs them. Keep the originals in the client folder, off git.
+doc/*.pdf
+doc/pages/
+doc/menu-avocado.jpg
+# (doc/RESEARCH.md is tracked - it is the provenance record.)
+
+# ---- QA output ---------------------------------------------
+# Screenshots from the headless Edge harness. Regenerated any
+# time by _qa\shot.ps1 / _qa\mshot.ps1, and they churn hard.
+_qa/shots/
+_qa/*.png
+
+# ---- unprocessed photography -------------------------------
+# Full-res Facebook originals and the TikTok frame dump. These
+# are the input to _qa\extract-venue.ps1; the web-sized JPEGs
+# it produced are committed in img/ and are what the site uses.
+img/raw/
+img/tiktok-*/
+
+# ---- build output ------------------------------------------
+# The 8.5 MB single-file artifact. Derived entirely from the
+# tracked pages, css, js and img/, so committing it would add
+# 8.5 MB of binary churn to history for something that is one
+# command away:
+#   powershell -NoProfile -ExecutionPolicy Bypass -File _qa\build-artifact.ps1
+rabbit-grill-artifact.html
+
+# ---- machine noise -----------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
