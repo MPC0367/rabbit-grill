@@ -535,6 +535,20 @@ body[data-nav="solid"] .nav::before { opacity: 0; }
 }
 body.has-bar .foot__base { padding-bottom: calc(84px + env(safe-area-inset-bottom)); }
 
+/* The studio credit, last in the base row so the bar clearance above covers it
+   too. It takes the row's own voice; the row lines up on the text baseline now
+   that one item is a 44px target. The words sit on the O's baseline so the 2
+   hangs below, as in the studio's logo. */
+.foot__base { align-items: baseline; }
+.o2-credit {
+  display: inline-flex; align-items: center; min-height: 44px;
+  color: inherit; text-decoration: none; line-height: 1;
+  transition: color var(--heat);
+}
+.o2-credit:hover, .o2-credit:focus-visible { color: var(--bone); }
+.o2-credit__lockup { white-space: nowrap; }
+.o2-credit__mark { display: inline-block; width: 1.95em; height: 1.6em; margin-right: .5em; vertical-align: -.366em; }
+
 /* =========================================================
    MOBILE ACTION BAR
    ========================================================= */
